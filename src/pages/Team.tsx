@@ -158,7 +158,7 @@ const Team = () => {
               Check out our open positions or send us your portfolio.
             </p>
             <a
-              href="mailto:careers@lovalable.com"
+              href="mailto:careers@escalynx.com"
               className="inline-flex items-center justify-center gap-2 h-14 px-10 text-base font-semibold rounded-xl bg-gradient-primary text-primary-foreground shadow-glow hover:shadow-xl hover:-translate-y-1 hover:scale-105 transition-all"
             >
               View Open Positions

@@ -30,7 +30,7 @@ export const Footer = () => {
             className="lg:col-span-1"
           >
             <Link to="/" className="inline-block mb-6">
-              <span className="text-2xl font-bold text-gradient">Lovalable</span>
+              <span className="text-2xl font-bold text-gradient">Escalynx</span>
             </Link>
             <p className="text-muted-foreground mb-6 max-w-xs">
               Crafting digital experiences that inspire, engage, and drive results for forward-thinking brands.
@@ -106,8 +106,8 @@ export const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-center gap-3 text-muted-foreground">
                 <Mail size={18} className="text-primary" />
-                <a href="mailto:hello@lovalable.com" className="hover:text-primary transition-colors">
-                  hello@lovalable.com
+                <a href="mailto:hello@escalynx.com" className="hover:text-primary transition-colors">
+                  hello@escalynx.com
                 </a>
               </li>
               <li className="flex items-center gap-3 text-muted-foreground">
@@ -131,7 +131,7 @@ export const Footer = () => {
           className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4"
         >
           <p className="text-muted-foreground text-sm">
-            © {new Date().getFullYear()} Lovalable. All rights reserved.
+            © {new Date().getFullYear()} Escalynx. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
             <a href="#" className="hover:text-primary transition-colors">Privacy Policy</a>

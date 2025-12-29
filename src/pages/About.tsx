@@ -52,7 +52,7 @@ const About = () => {
               About Us
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-              We're <span className="text-gradient">Lovalable</span>
+              We're <span className="text-gradient">Escalynx</span>
             </h1>
             <p className="text-lg text-muted-foreground">
               A passionate team of designers, developers, and strategists dedicated to 
@@ -78,7 +78,7 @@ const About = () => {
               />
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Lovalable was born from a simple belief: great design has the power to transform businesses 
+                  Escalynx was born from a simple belief: great design has the power to transform businesses 
                   and connect people. What started as a small team with big dreams has grown into a 
                   full-service creative agency trusted by brands worldwide.
                 </p>
