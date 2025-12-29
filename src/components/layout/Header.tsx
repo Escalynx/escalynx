@@ -46,7 +46,7 @@ export const Header = () => {
               animate={{ opacity: 1, x: 0 }}
               className="text-2xl font-bold"
             >
-              <span className="text-gradient">Lovalable</span>
+              <span className="text-gradient">Escalynx</span>
             </motion.div>
           </Link>
 

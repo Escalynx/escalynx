@@ -50,7 +50,7 @@ const portfolioItems = [
 
 const testimonials = [
   {
-    quote: "Lovalable transformed our brand completely. Their attention to detail and creative vision exceeded all expectations.",
+    quote: "Escalynx transformed our brand completely. Their attention to detail and creative vision exceeded all expectations.",
     author: "Sarah Chen",
     role: "CEO, TechVentures",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
@@ -233,7 +233,7 @@ const Index = () => {
             >
               <SectionTitle
                 align="left"
-                subtitle="Why Choose Lovalable"
+                subtitle="Why Choose Escalynx"
                 title={<>Passion Meets <span className="text-gradient">Precision</span></>}
                 description="We don't just create designs—we craft experiences that tell your story and connect with your audience on a deeper level."
               />
